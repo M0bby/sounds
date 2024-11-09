@@ -1,5 +1,4 @@
-This is not my lua/idea
-Original lua was just for skeet
+This is not my lua/idea, Original lua was just for skeet
 https://github.com/Elon1337/GameSense-Luas/tree/main/Custom%20weapon%20SFX
 I just ported Lua to the most popular cheat
 
